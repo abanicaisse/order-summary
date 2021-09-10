@@ -124,6 +124,18 @@ body {
     color: var(--neutral-dark-blue);
 }
 
+footer {
+    width: min(20rem, 85%);
+    text-align: center;
+    margin-top: 2rem;
+}
+
+footer a {
+    color: var(--primary-bright-blue);
+    font-size: 1.1rem;
+    text-decoration: none;
+}
+
 @media screen and (min-width: 1200px) {
     body {
         background: url(/order_summary/images/pattern-background-desktop.svg) no-repeat center center / cover;
