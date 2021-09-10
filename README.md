@@ -24,8 +24,10 @@ Users should be able to:
 ### Screenshot
 
 1. Desktop Design
+![FEM-order-summary(1)](https://user-images.githubusercontent.com/84383548/132903701-831b00dd-4cfa-46f3-9712-3a632a6099d4.png)
 
 1. Mobile Design
+![FEM-order-summary(2)](https://user-images.githubusercontent.com/84383548/132903721-a292ab78-479f-425a-b4be-1d3797f6ce0f.png)
 
 ### Links
 
