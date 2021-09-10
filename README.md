@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Frontend Mentor Solution](https://www.frontendmentor.io/solutions/order-summary-with-pure-html-and-css-S2R555cjZ)
+- Live Site URL: [Netlify Live Site](https://blissful-mccarthy-de1053.netlify.app/)
 
 ## My Process
 
