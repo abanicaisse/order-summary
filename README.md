@@ -24,13 +24,15 @@ Users should be able to:
 ### Screenshot
 
 1. Desktop Design
+![FEM-order-summary(1)](https://user-images.githubusercontent.com/84383548/132903701-831b00dd-4cfa-46f3-9712-3a632a6099d4.png)
 
-1. Mobile Design
+1. Mobile Design <br>
+![FEM-order-summary(2)](https://user-images.githubusercontent.com/84383548/132903721-a292ab78-479f-425a-b4be-1d3797f6ce0f.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Frontend Mentor Solution](https://www.frontendmentor.io/solutions/order-summary-with-pure-html-and-css-S2R555cjZ)
+- Live Site URL: [Netlify Live Site](https://blissful-mccarthy-de1053.netlify.app/)
 
 ## My Process
 
